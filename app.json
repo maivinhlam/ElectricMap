@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "MotorcycleViewer",
+    "slug": "motorcycle-viewer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": []
+    },
+    "web": {
+      "bundler": "webpack"
+    },
+    "plugins": []
+  }
+}
